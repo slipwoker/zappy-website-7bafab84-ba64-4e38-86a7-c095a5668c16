@@ -1,0 +1,73 @@
+# דוכן תפילין בתחנת הרכבת תל אביב השלום — Generative Engine Optimization Map
+
+> A Tefillin booth located at Tel Aviv HaShalom train station, offering Jewish men the opportunity to put on Tefillin. The booth serves as a welcoming religious outreach point in a busy transit hub, combining Jewish tradition and community connection in a modern urban setting.
+
+---
+
+## Pages
+
+### בית
+https://-7bafab84.zappy5.app
+A Tefillin booth located at Tel Aviv HaShalom train station, offering Jewish men the opportunity to put on Tefillin. The booth serves as a welcoming religious o
+
+## Legal & Policy
+
+### Privacy Policy
+https://-7bafab84.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-7bafab84.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-7bafab84.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-7bafab84.zappy5.app
+- Endpoint: https://-7bafab84.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About דוכן תפילין בתחנת הרכבת תל אביב השלום
+A Tefillin booth located at Tel Aviv HaShalom train station, offering Jewish men the opportunity to put on Tefillin. The booth serves as a welcoming religious outreach point in a busy transit hub, combining Jewish tradition and community connection in a modern urban setting.
+
+## Services/Products
+- הנחת תפילין
+- סיוע ועזרה בהנחת תפילין
+
+## Target Audience
+- יהודים המבקרים בתחנת רכבת תל אביב השלום
+- יהודים מבקרי תחנת רכבת
+- צעירים יהודים בגילאי 13-30
+- נוסעים דתיים קבועים
+- תיירים יהודים
+- יהודים חילוניים מתעניינים במסורת
+
+## Industry
+שירותים דתיים / יהדות
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-7bafab84.zappy5.app/sitemap.xml
+- Robots: https://-7bafab84.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-7bafab84.zappy5.app/llms-full.txt
