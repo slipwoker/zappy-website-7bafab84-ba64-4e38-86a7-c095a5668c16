@@ -139,6 +139,7 @@ Description: A Tefillin booth located at Tel Aviv HaShalom train station, offeri
 
 
 
+
 מה מחכה לך כאן
 
 ## הנחת תפילין — פשוט, מהיר, ומשמעותי
@@ -210,6 +211,19 @@ Description: A Tefillin booth located at Tel Aviv HaShalom train station, offeri
 
 
 כל הנחת תפילין היא גשר — בין אתה לבין עם ישראל לדורותיו. בדוכן שלנו תחנת הרכבת הופכת לרגע קטן של קהילה אמיתית.
+
+
+
+
+
+
+
+
+
+### כותרת משנה
+
+
+טקסט כאן
 
 
 
