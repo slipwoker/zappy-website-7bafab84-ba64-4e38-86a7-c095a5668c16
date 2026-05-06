@@ -112,9 +112,7 @@ Description: A Tefillin booth located at Tel Aviv HaShalom train station, offeri
 
 
 
-
-איך מגיעים אלינו?
-
+תל אביב, ישראל
 
 
 מה לצפות בביקור?
@@ -561,15 +559,15 @@ Description: A Tefillin booth located at Tel Aviv HaShalom train station, offeri
 
 
 
-תחנת רכבת תל אביב השלום
+תל אביב, ישראל
 
 
 
-[business_email]
+mmbbolton770@gmail.com
 
 
 
-[business_phone]
++972555691770
 
 
 
@@ -720,11 +718,11 @@ Description: A Tefillin booth located at Tel Aviv HaShalom train station, offeri
 ### צרו קשר
 
 
-- [business_email]
+- mmbbolton770@gmail.com
 
-- [business_phone]
+- +972555691770
 
-- [business_address]
+- תל אביב, ישראל
 
 
 
@@ -928,11 +926,11 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - חברה: דוכן תפילין בתחנת הרכבת תל אביב השלום
 
-- אימייל: [business_email]
+- אימייל: mmbbolton770@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: +972555691770
 
-- כתובת: [business_address]
+- כתובת: תל אביב, ישראל
 
 
 
@@ -987,11 +985,11 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 ### צרו קשר
 
 
-- [business_email]
+- mmbbolton770@gmail.com
 
-- [business_phone]
+- +972555691770
 
-- [business_address]
+- תל אביב, ישראל
 
 
 
@@ -1203,9 +1201,9 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - חברה: דוכן תפילין בתחנת הרכבת תל אביב השלום
 
-- אימייל: [business_email]
+- אימייל: mmbbolton770@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: +972555691770
 
 
 
@@ -1263,11 +1261,11 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 ### צרו קשר
 
 
-- [business_email]
+- mmbbolton770@gmail.com
 
-- [business_phone]
+- +972555691770
 
-- [business_address]
+- תל אביב, ישראל
 
 
 
@@ -1502,11 +1500,11 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - חברה: דוכן תפילין בתחנת הרכבת תל אביב השלום
 
-- אימייל: [business_email]
+- אימייל: mmbbolton770@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: +972555691770
 
-- כתובת: [business_address]
+- כתובת: תל אביב, ישראל
 
 
 
@@ -1558,11 +1556,11 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 ### צרו קשר
 
 
-- [business_email]
+- mmbbolton770@gmail.com
 
-- [business_phone]
+- +972555691770
 
-- [business_address]
+- תל אביב, ישראל
 
 
 
