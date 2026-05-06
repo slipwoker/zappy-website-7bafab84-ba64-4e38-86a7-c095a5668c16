@@ -2,13 +2,13 @@
 
 A Tefillin booth located at Tel Aviv HaShalom train station, offering Jewish men the opportunity to put on Tefillin. The booth serves as a welcoming religious outreach point in a busy transit hub, combining Jewish tradition and community connection in a modern urban setting.
 
-Source: https://-7bafab84.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הנחת תפילין — דוכן תפילין בתחנת הרכבת תל אביב השלום
 
-URL: https://-7bafab84.zappy5.app
+URL: https://example.com
 Description: A Tefillin booth located at Tel Aviv HaShalom train station, offering Jewish men the opportunity to put on Tefillin. The booth serves as a welcoming religious o
 
 הנחת תפילין — דוכן תפילין בתחנת הרכבת תל אביב השלום
@@ -734,7 +734,7 @@ Description: A Tefillin booth located at Tel Aviv HaShalom train station, offeri
 
 ## מדיניות פרטיות
 
-URL: https://-7bafab84.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1001,7 +1001,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-7bafab84.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1277,7 +1277,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-7bafab84.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
